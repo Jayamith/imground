@@ -1,0 +1,22 @@
+{
+  "name": "img-round",
+  "version": "1.0.0",
+  "description": "Get rounded corners for the images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayamith/imground.git"
+  },
+  "keywords": [
+    "roundedimg"
+  ],
+  "author": "jayamith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayamith/imground/issues"
+  },
+  "homepage": "https://github.com/Jayamith/imground#readme"
+}

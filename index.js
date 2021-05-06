@@ -4,7 +4,7 @@ function imground(options) {
     if (options.border_type === high)
         options.border_type = '40%'
     else
-        options.shadow_type = '20%'
+        options.border_type = '20%'
 
     images.forEach(image => {
         image.style.borderRadius = `${options.border_type} `
